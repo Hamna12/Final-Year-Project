@@ -69,7 +69,7 @@ Like with which we can clearly access progress or can identify areas where impro
 
 ### Few of examples of Dashboard:
 
-This is how I am planning to show our insights - (an example of sales forecasting) :
+This is how we can show our insights - (just an example of sales forecasting) :
 
 [https://blog.streamlit.io/forecasting-with-streamlit-prophet/]
 
@@ -144,11 +144,7 @@ So this case study is focusing on grade analysis of BISE Multan students from ye
 
 **Short overview of this:**
 
-I am reading this research paper, basically it is focusing on comparison between SSC or Cambridge O level. But they are just analyzing the English subject and its question paper of both examination system. What we can do, we can compare the subjects offering in both examination system, the number of students (gender wise distribution) in both system and more. But we don’t need to collect the dataset of Cambridge level students we can compare their already collected information with our collected BISE data.
-
-**Confusion: (Need to do brainstorming more)**
-
-What missing values in subjects columns are showing. Some marks of subject columns are empty. So what this null is representing? Missing data of these students or students were absent in these subjects. If students were absent so the marks shouldn’t be zero. As some of subjects also have 0 values. 
+I am reading this research paper, basically it is focusing on comparison between SSC or Cambridge O level. But they are just analyzing the English subject and its question paper of both examination system. What we can do, we can compare the subjects offering in both examination system, the number of students (gender wise distribution) in both system and more. But we don’t need to collect the dataset of Cambridge level students we can compare their already collected information with our collected BISE data. 
 
 # Report#3: (15 Nov)
 
@@ -165,9 +161,3 @@ What missing values in subjects columns are showing. Some marks of subject colum
 ## Here’s the colab Notebook link updated: (data 2015)
 
 [https://colab.research.google.com/drive/1QGvNrrwLKrBx8hAixxmmju55GoEL1HCO?usp=sharing]
-
-# Next Steps (will update on Sat 18 Nov)
-
-- Handle missing values
-- Add columns of each subject’s total marks in the dataset
-- Research
