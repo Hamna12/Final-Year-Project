@@ -161,3 +161,27 @@ I am reading this research paper, basically it is focusing on comparison between
 ## Here’s the colab Notebook link updated: (data 2015)
 
 [https://colab.research.google.com/drive/1QGvNrrwLKrBx8hAixxmmju55GoEL1HCO?usp=sharing]
+
+# Advisor Thoughts:
+
+Please brainstorm ideas along two lines:
+
+A. What things to populate on the dashboard? For example:
+
+1. Subject category-wise line chart of grade/score/percentage progression from 2015-2023
+2. Bar chart of pass/fail ratio progression from 2015-2023.
+3. Progress of schools from 2015-2023.
+4. so on… please write all raw ideas here
+
+B. What research questions can be formulated
+
+1. Does gender impact subject choice?
+2. Demography (urban/rural) impact grade outcomes?
+3. Grades during the COVID period are a significant outlier?
+4. Has the COVID period caused a change in the trend of grades for the post-COVID period?
+5. Write whatever raw thought comes to your mind.
+
+I am leaving links to articles that you should view to enrich your thoughts along the subject: https://www.tandfonline.com/doi/abs/10.1080/03054980801970312
+
+https://files.eric.ed.gov/fulltext/ED538834.pdf (view article starting on page 23). You may find some other useful articles in the document as well.
+
