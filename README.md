@@ -1,12 +1,14 @@
 # Final-Year-Project-Idea
 
+
+
 ## *Tracing the impact of time on education*
 
 #### Table of Contents
 
-1. [Project Aim](#projec-taim)
-2. [Features / variables of interest](#features)
-3. [End goal of project](#endgoalofproject)
+1. [Project Aim](#project-aim)
+2. [Features / Variable of interest](#features)
+3. [End goal of project](#end-goal-of-project)
 4. [Few of examples of Dashboard](#few-of-examples-of-Dashboard)
 5. [Work Updates](#work-updates)
 6. [Example Articles](#example-articles)
@@ -139,6 +141,8 @@ I have got deeper understanding of year 2015 dataset. Following are the informat
 **Board site from where I explored the Abbreviations of subjects:**
 
 [](https://web.bisemultan.edu.pk/wp-content/uploads/2015/08/rules.pdf)
+
+# **Example Articles:**
 
 ### *Research papers and Articles I explored*:
 
