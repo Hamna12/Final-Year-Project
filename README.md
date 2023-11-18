@@ -4,13 +4,13 @@
 
 #### Table of Contents
 
-1. [Project Aim](#projectaim)
+1. [Project Aim](#projec-taim)
 2. [Features / variables of interest](#features)
 3. [End goal of project](#endgoalofproject)
-4. [Few of examples of Dashboard](#FewofexamplesofDashboard)
-5. [Work Updates](#workupdates)
-6. [Example Articles](#examplearticles)
-7. [Advisor Thoughts](#advisorthoughts)
+4. [Few of examples of Dashboard](#few-of-examples-of-Dashboard)
+5. [Work Updates](#work-updates)
+6. [Example Articles](#example-articles)
+7. [Advisor Thoughts](#advisor-thoughts)
 
 # Project Aim:
 The main aim of this project is to evaluate a comprehensive analysis of student board result data over time. Explore academic performance or related factors that evolved over time.
