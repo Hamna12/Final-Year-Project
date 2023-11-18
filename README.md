@@ -2,6 +2,16 @@
 
 ## *Tracing the impact of time on education*
 
+#### Table of Contents
+
+1. [Project Aim](#projectaim)
+2. [Features / variables of interest](#features)
+3. [End goal of project](#endgoalofproject)
+4. [Few of examples of Dashboard](#FewofexamplesofDashboard)
+5. [Work Updates](#workupdates)
+6. [Example Articles](#examplearticles)
+7. [Advisor Thoughts](#advisorthoughts)
+
 # Project Aim:
 The main aim of this project is to evaluate a comprehensive analysis of student board result data over time. Explore academic performance or related factors that evolved over time.
 
@@ -82,6 +92,8 @@ This is just example of how to make it more user friendly or interactive by disp
 [https://blog.esciencecenter.nl/https-blog-esciencecenter-nl-spot-visual-scientific-data-analytics-made-easy-62e03a895bae]
 
 ---
+
+# **Work Updates:**
 
 # **Report #1(A quick basic review of data): (8-11-2023)**
 
