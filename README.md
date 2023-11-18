@@ -1,6 +1,6 @@
 # Final-Year-Project-Idea
 
-
+<img src="Images/mind_map.png" width="100" >
 
 ## *Tracing the impact of time on education*
 
