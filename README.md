@@ -12,10 +12,10 @@
 6. [Example Articles](#example-articles)
 7. [Advisor Thoughts](#advisor-thoughts)
 
-# Project Aim:
+# **Project Aim:**
 The main aim of this project is to evaluate a comprehensive analysis of student board result data over time. Explore academic performance or related factors that evolved over time.
 
-## Variable of interest:
+## Features / Variable of interest:
 - District / Tehsil / Town (as many as possible for classification of region)
 - urban / rural
 - Subjects group
@@ -55,7 +55,7 @@ The main aim of this project is to evaluate a comprehensive analysis of student 
 
 And then prediction….
 
-## End Goal of Project:
+# End goal of project:
 
 An interactive dashboard for analyzing student performance and education evaluation over time
 
@@ -77,7 +77,7 @@ Like with which we can clearly access progress or can identify areas where impro
 - subject strengths or weakness
 - …….
 
-### Few of examples of Dashboard:
+# **Few of examples of Dashboard:**
 
 This is how we can show our insights - (just an example of sales forecasting) :
 
@@ -174,7 +174,7 @@ I am reading this research paper, basically it is focusing on comparison between
 
 [https://colab.research.google.com/drive/1QGvNrrwLKrBx8hAixxmmju55GoEL1HCO?usp=sharing]
 
-# Advisor Thoughts:
+# **Advisor Thoughts:**
 
 Please brainstorm ideas along two lines:
 
