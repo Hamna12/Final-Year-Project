@@ -13,6 +13,7 @@
 5. [Work Updates](#work-updates)
 6. [Example Articles](#example-articles)
 7. [Advisor Thoughts](#advisor-thoughts)
+8. [Colab Notebooks](#colab-notebooks)
 
 # **Project Aim:**
 The main aim of this project is to evaluate a comprehensive analysis of student board result data over time. Explore academic performance or related factors that evolved over time.
@@ -185,9 +186,11 @@ Please brainstorm ideas along two lines:
 A. What things to populate on the dashboard? For example:
 
 1. Subject category-wise line chart of grade/score/percentage progression from 2015-2023
-2. Bar chart of pass/fail ratio progression from 2015-2023.
+2. Bar chart of pass/fail ratio progression from 2015-2023. (improving/declining/consistent)
 3. Progress of schools from 2015-2023.
 4. so on… please write all raw ideas here
+*( 5. Specify the gender or age group, 6. strength of students district/tehsil wise
+users can track overall performance of education in their region)*
 
 B. What research questions can be formulated
 
@@ -200,4 +203,22 @@ B. What research questions can be formulated
 I am leaving links to articles that you should view to enrich your thoughts along the subject: https://www.tandfonline.com/doi/abs/10.1080/03054980801970312
 
 https://files.eric.ed.gov/fulltext/ED538834.pdf (view article starting on page 23). You may find some other useful articles in the document as well.
+
+# **Colab Notebooks:**
+
+## Notebook for year 2015: 
+[https://colab.research.google.com/drive/1QGvNrrwLKrBx8hAixxmmju55GoEL1HCO?usp=sharing]
+
+## Notebook for year 2016:
+[https://colab.research.google.com/drive/1kTejKMOG9vs1nuaUzL5YQnUtmRg4-U6c?usp=sharing]
+
+## Notebook for year 2017:
+[https://colab.research.google.com/drive/1-KGn1AenDpQQPRUnvi7ZC4JampYaPRGw?usp=sharing]
+
+## Notebook for year 2018:
+[https://colab.research.google.com/drive/1KWDk36hztcpKTT_B11suosylRw2Mq6Gr?usp=sharing]
+
+## Notebook for year 2019:
+[https://colab.research.google.com/drive/1cLmWLZ9HO7owhDfVuJAF2XgRMzD2FtHS?usp=sharing]
+
 
