@@ -134,3 +134,47 @@ Certainly! Integrating AI (Artificial Intelligence) and ML (Machine Learning) in
     - Allow users to interact with AI-driven recommendations and predictions in real-time.
 
 When incorporating AI and ML, it's crucial to prioritize ethical considerations, interpretability, and transparency. Additionally, collaboration with educators and educational experts is valuable to ensure the relevance and ethical use of AI in educational research.
+
+<hr><hr>
+
+**Descriptive Research Questions:**
+
+1. Gender Distribution:
+- What is the gender distribution of students across the years?
+- Are there any noticeable trends or changes in gender representation over time?
+
+2. Age Distribution:
+- How is the age distribution of students across different years?
+- Are there any patterns in the age distribution based on regions or institutions?
+  
+3. Regional Performance:
+- How does the academic performance vary across different regions (tehsils)?
+- Are there regions consistently performing better or worse than others?
+  
+4 Institutional Performance:
+- What is the distribution of academic performance among different institutions?
+- Can we identify institutions with consistently high or low performance?
+  
+5. Subject Preferences:
+- What are the most popular subjects among students over the years?
+- Are there any noticeable shifts in subject preferences?
+
+<hr><hr>
+
+**Exploratory Research Questions:**
+
+1. Correlation Analysis:
+- Is there a correlation between a student's age and their academic performance?
+- Are there correlations between subject choices and overall grades?
+  
+2. Temporal Analysis:
+- Are there temporal patterns in subject popularity or performance?
+- How have certain demographics (e.g., gender) changed over time?
+  
+3. Advanced Subject Performance:
+- Can we identify advanced subjects where students consistently perform exceptionally well or struggle?
+- Are there specific institutions known for excellence in certain subjects?
+  
+4. Subject Combinations:
+- Are there subject combinations that result in better overall academic performance?
+- How do subject combinations vary across different demographics?
