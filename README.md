@@ -14,6 +14,7 @@
 6. [Example Articles](#example-articles)
 7. [Advisor Thoughts](#advisor-thoughts)
 8. [Colab Notebooks](#colab-notebooks)
+9. [Master Notebook(Identifying Missing Values)](#master-notebook(identifying-missing-values))
 
 # **Project Aim:**
 The main aim of this project is to evaluate a comprehensive analysis of student board result data over time. Explore academic performance or related factors that evolved over time.
@@ -220,5 +221,8 @@ https://files.eric.ed.gov/fulltext/ED538834.pdf (view article starting on page 2
 
 ## Notebook for year 2019:
 [https://colab.research.google.com/drive/1cLmWLZ9HO7owhDfVuJAF2XgRMzD2FtHS?usp=sharing]
+
+# **Master Notebook(Identifying Missing Values)**:
+[https://colab.research.google.com/drive/125V29DFqcrqS-hLxsEXBzhKirKXQpCJS?usp=sharing]
 
 
