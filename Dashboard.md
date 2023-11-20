@@ -21,6 +21,9 @@ Creating an informative and interactive dashboard for national school exit exam 
    - Display overall pass/fail rates over the years.
    - Show the total number of students, the percentage of students passing, and any significant changes over the years.
    - Consider visualizing pass/fail rates by gender, subject group, and area.
+   - *Average age of students in each academic year (line chart for showing trend in gender distribution)*
+   - *Show the trend in average marks and pass percentage over the years*
+   - *Display how subject preference changes over the years*
 
 2. **Gender and Subject Group Comparisons:**
    - Create bar charts or pie charts to compare pass/fail rates between genders and different subject groups.
@@ -29,9 +32,13 @@ Creating an informative and interactive dashboard for national school exit exam 
 3. **Top Performing Schools:**
    - Highlight the top-performing schools based on pass rates.
    - Provide an interactive table or map to explore the performance of different schools over the years.
+   - *Top performing institutes based on average marks or highest pass percentage (bar chart for the comparison)*
 
 4. **District-wise Analysis:**
    - Visualize the performance of students in different districts using a map or a bar chart.
+   - *Visualize how different region perform academically*
+   - *Identify or track the ratio of students in each region(tehsil) over the years*
+   - *Gender wise comparison*
    - Include filters to allow users to select specific districts or view the entire dataset.
 
 5. **Trend Analysis:**
@@ -41,6 +48,7 @@ Creating an informative and interactive dashboard for national school exit exam 
 6. **Subject-wise Performance:**
    - Display individual subject performance over the years using bar charts or line charts.
    - Enable users to select specific subjects to focus on.
+   - *Subject popularity over the years*
 
 7. **Area-wise Performance:**
    - Compare the performance of students in urban and rural areas using interactive visualizations.
@@ -63,3 +71,7 @@ Creating an informative and interactive dashboard for national school exit exam 
     - Implement drill-down functionality to allow users to explore more detailed information when clicking on specific elements.
 
 Remember to choose visualizations that best represent the insights you want to convey and maintain a clean and user-friendly design. Interactive dashboards are powerful tools for exploring and understanding complex datasets, so providing users with the ability to interact with the data will enhance their experience.
+
+12. **Predictive Analysis**:
+    - Display model for grade prediction accuracy.
+    - Time series analysis (year wise trend) and forecasting result related to student performance. 
