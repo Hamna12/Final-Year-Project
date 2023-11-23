@@ -2,7 +2,7 @@
 
 <img src="Images/mind_map.png" >
 
-## *Tracing the impact of time on education*
+## *AI-DRIVEN INSIGHTS: Understanding Educational Patterns through Dashboard Visualization*
 
 #### Table of Contents
 
