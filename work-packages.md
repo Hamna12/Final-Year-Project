@@ -1,8 +1,6 @@
 | **Work Package** | **Description** | **Time Required (Weeks)** |
 |------------------|-----------------|---------------------------|
-| 1. **Data Collection** | Gather school exit exam data from the
-past 9 years ensuring completeness and accuracy. This involves liaising with
-educational authorities, cleaning raw data to eliminate inconsistencies and organizing it for analysis. | 2 |
+| 1. **Data Collection** | Gather school exit exam data from the past 9 years ensuring completeness and accuracy. This involves liaising with educational authorities, cleaning raw data to eliminate inconsistencies and organizing it for analysis. | 2 |
 | 2. **Data Exploration and Preprocessing** | Perform Exploratory Data Analysis (EDA) to understand the dataset’s characteristics. Handle missing values, detect outliers and bring data is in suitable format.. | 3 |
 | 3. **Feature Engineering and selection** | Create new feature and transform the existing ones to enhance the performance of machine learning models or improve insights from data. Feature engineering involves (Age calculation, subject aggregation, subjects grouping etc) | 2 |
 | 4. **Dashboard Design** | Design user interface for the dashboard, outlining key visualizations such as performance trends over time(gender wise, year wise, subject wise, etc.) and demographic insights. Define features and functionalities of interactive dashboard. | 4 |
