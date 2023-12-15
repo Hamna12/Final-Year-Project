@@ -1,4 +1,4 @@
-## It is essential to define Key Performance Indicator (KPIs) that we want to visualize on dashboard.
+## It is essential to first define Key Performance Indicator (KPIs) that we want to visualize on dashboard.
 
 ### Here are some KPIs to consider:
 
