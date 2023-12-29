@@ -20,4 +20,14 @@
 3. Allow users to explore educational patterns based on demographics such as age, gender, or group. For example, users could analyze how the performance of specific demographics has evolved over the years
 4. Implement a feature to showcase the top-performing students or institutions based on various criteria such as marks, pass rates, or any other relevant measure.
 5. Predictive modeling 
-6. 
+
+## Add an authentication component in streamlit app: 
+- Login/logout page
+- user authentications
+(Options we can add, 1. Create a new account, 2. Login to existing account, 3. login as guest)
+(We will create a side bar menu using four options:
+1. Home
+2. Add Account
+3. Update Password
+4. Delete Account
+(We will use DataBase(Sql or postgres) to store user details)
