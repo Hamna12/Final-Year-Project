@@ -23,9 +23,9 @@
 ### Urban Performance in 2015:
 | is_urban | sex | Pass Rate |
 |----------|-----|-----------|
-| 0        | F   | 83.10%    |
+| 0(Non-urban)       | F   | 83.10%    |
 | 0        | M   | 77.02%    |
-| 1        | F   | 84.01%    |
+| 1 (urban)       | F   | 84.01%    |
 | 1        | M   | 77.25%    |
 
 ### Tehsil Performance in 2015:
