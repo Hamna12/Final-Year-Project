@@ -13,12 +13,12 @@ from sklearn.linear_model import LogisticRegression
 from chat_llm import generate_response 
 
 # Load the model, preprocessor, and label encoder
-model = joblib.load('assets/lgb_model.pkl')
-preprocessor = joblib.load('assets/preprocessor.pkl')
-label_encoder = joblib.load('assets/label_encoder.pkl')
+model = joblib.load('Data/lgb_model.pkl')
+preprocessor = joblib.load('Data/preprocessor.pkl')
+label_encoder = joblib.load('Data/label_encoder.pkl')
 
 # Load dataset for feature ranges
-df_filtered = pd.read_csv("assets/filtered_dataset.csv", encoding="ISO-8859-1")
+df_filtered = pd.read_csv("Data/filtered_dataset.csv", encoding="ISO-8859-1")
 
 X = df_filtered.drop('Grade', axis=1)
 y = df_filtered['Grade']
@@ -112,8 +112,8 @@ if st.sidebar.button("Predict All"):
     st.write(f"Overall Predicted Grade: {overall_prediction}")
     
     # Load precomputed SHAP values
-    shap_values = joblib.load('assets/shap_values.pkl')
-    X_test = pd.read_csv('assets/X_test.csv')
+    shap_values = joblib.load('Data/shap_values.pkl')
+    X_test = pd.read_csv('Data/X_test.csv')
 
     st.subheader('SHAP Value Explanation')
     st.write("SHAP values show the impact of each feature on the prediction. Positive SHAP values push the prediction higher, while negative SHAP values push it lower.")

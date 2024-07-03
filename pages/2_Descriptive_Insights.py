@@ -32,11 +32,11 @@ if page1 == "Insights":
         df = pd.read_csv(uploaded_file, encoding="ISO-8859-1")
     else:
         # If no file is uploaded, fall back to using the default file
-        df = pd.read_csv("assets/combined_all_data.csv", encoding="ISO-8859-1")
+        df = pd.read_csv("Data/combined_all_data.csv", encoding="ISO-8859-1")
 else:
     # Load the default file if the page is not "Insights"
     #os.chdir(r"C:\Users\PMYLS\Documents\FYP Material\FYP Material")
-    df = pd.read_csv("assets/combined_all_data.csv", encoding="ISO-8859-1")
+    df = pd.read_csv("Data/combined_all_data.csv", encoding="ISO-8859-1")
 
 #---------------------------------------------Mentioning Key Performance Indicators-----------------------------------------
 

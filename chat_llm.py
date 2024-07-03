@@ -77,7 +77,7 @@ template = PromptTemplate.from_template(prompt_template)
 memory = SimpleMemory()
 
 # Load the dataset and process it
-file_path = "assets/qa-chatbot.txt"
+file_path = "Data/qa-chatbot.txt"
 qa_pairs = []
 
 with open(file_path, "r") as file:

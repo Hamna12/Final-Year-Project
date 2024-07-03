@@ -32,7 +32,7 @@ if "page" not in st.session_state:
 
 # Main Page
 if st.session_state.page == "Main":
-    set_background('assets/img.png')
+    set_background('Data/img.png')
     # Hide sidebar initially on the main page
     st.markdown(
         """
